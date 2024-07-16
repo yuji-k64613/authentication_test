@@ -1,2 +1,1 @@
 # authentication_test
-authentication_test
